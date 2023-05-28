@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monkham21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested ...
+- 🌱 I’m currently learning several programming languages, including Java, C#, Javascript and Python.
+- 💞️ I’m looking to collaborate on backend projects.
 - 📫 Can reach me via email: nangmonkham2016@gmail.com
 
 <!---
